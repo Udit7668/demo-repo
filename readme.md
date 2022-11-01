@@ -7,8 +7,3 @@ welcome udit
 
 welcome to youtube watch my playlist!
 hello world
-
-
-# demo2 
-
-love u india
